@@ -5,3 +5,5 @@
 
 * _week2_ :    
 Creating Markdown File
+*_week3_:    
+Introduction to Python: Numbers and Strings.

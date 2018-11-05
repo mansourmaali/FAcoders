@@ -5,3 +5,7 @@
 
 * _week2_ :    
 Creating Markdown File
+* _week3_ :    
+Introduction to Python: Numbers and Strings.
+* _week4_ :    
+Introduction to python: If statement, While loop.

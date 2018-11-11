@@ -13,7 +13,6 @@ Introduction to Python: Numbers and Strings.
 * _week3_:    
 Introduction to Python: Numbers and Strings.
 
->>>>>>> f1752f4bd6aa4f4c90c21d7fe57f2ed2727b584b
 * _week4_ :    
 Introduction to python: If statement, While loop.
 
